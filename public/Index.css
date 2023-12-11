@@ -1,0 +1,22 @@
+.header{
+    margin-top: 0%;
+    box-shadow: 1%;
+    background-color: aqua;
+    border: 1px solid black;
+    
+}
+.body{
+    margin-top: 0%;
+    box-shadow: 1%;
+    border: 1px solid black;
+
+}
+.footer{
+    margin-top: 0%;
+    box-shadow: 1%;
+    border: 1px solid black;
+
+}
+.container{
+    margin-top: 50%;
+}
